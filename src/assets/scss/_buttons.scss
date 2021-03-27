@@ -6,8 +6,8 @@
 
 .btn {
   min-height: 50px;
-
-  display: inline-block;
+  display: inline-flex;
+  align-items: center;
   font-weight: $btn-font-weight;
   color: $body-color;
   text-align: center;
